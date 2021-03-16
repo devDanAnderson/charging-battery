@@ -1,2 +1,2 @@
-# charging-battery
-This is a basic animation of a battery charging.
+# basic-charging-battery
+This is a basic animation of a battery charging. Using HTML, CSS & Javscript.
